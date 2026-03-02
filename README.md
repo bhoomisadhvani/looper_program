@@ -6,15 +6,15 @@
 
 first program link
 
-<script src="//onlinegdb.com/embed/js/R58NUpKpZS?theme=dark"></script>
+https://onlinegdb.com/9cf1YIuw6a
 
 second program link
 
-<script src="//onlinegdb.com/embed/js/PwCYP1ocd?theme=dark"></script>
+https://onlinegdb.com/DPCdM2D4On
 
 third program link
 
-<script src="//onlinegdb.com/embed/js/Kaa2rpN0Ub?theme=dark"></script>
+https://onlinegdb.com/mVXSS0uHKD
 
 C Programs Collection
 
